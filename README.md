@@ -1,2 +1,0 @@
-# weexstudy
-weex study
